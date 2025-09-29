@@ -1,3 +1,6 @@
+
+![Imagem local](noxratech-banner-in.jpg) 
+
 # 👾 Noxra Tech  
 
 🔮 **Onde inovação encontra estratégia para transformar ideias em tecnologia e tecnologia em resultados.**  
