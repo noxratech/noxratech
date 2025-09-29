@@ -1,7 +1,5 @@
 
-![Imagem local](noxratech-banner-in.jpg) 
-
-# 👾 Noxra Tech  
+![Imagem local](bg-pc.png)  
 
 🔮 **Onde inovação encontra estratégia para transformar ideias em tecnologia e tecnologia em resultados.**  
 
@@ -94,8 +92,8 @@ Se você busca mais do que apenas desenvolvimento, a **Noxra Tech** é a parceir
 
 📬 **Conecte-se conosco:**  
 - [🌐 LinkedIn](https://www.linkedin.com/in/noxratech)  
-- [📸 Instagram](#)  
-- ✉️ contato@noxratech.com  
+- [📸 Instagram](https://www.instagram.com/noxratech/)  
+- ✉️ noxratech@gmail.com 
 
 ---
 
