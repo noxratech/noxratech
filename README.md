@@ -1,5 +1,5 @@
 
-![Imagem local](Noxra Tech.png)  
+![Imagem local](NoxraTech.png)  
 
 🔮 **Onde inovação encontra estratégia para transformar ideias em tecnologia e tecnologia em resultados.**  
 
